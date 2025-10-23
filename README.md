@@ -1,13 +1,12 @@
-# 🌐 Power BI Executive Sales Dashboard
+# Power BI Executive Sales Dashboard
 
-## 📊 Overview
 This project presents an interactive **Power BI Dashboard** designed to analyze company-wide performance across products, customers, countries, and seasons.
 
 The dashboard enables data-driven decision-making by offering visual insights into **Sales**, **Gross Profit**, and **Year-over-Year trends**.
 
 ---
 
-## 🧩 Dashboard Pages
+## Dashboard Pages
 1. **Executive Dashboard** – Overall business performance and KPIs.
 2. **Product Performance** – Sales trends and profitability by product.
 3. **Customer Analysis** – Customer-level contribution and GP%.
@@ -16,7 +15,7 @@ The dashboard enables data-driven decision-making by offering visual insights in
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 - YTD Sales: £3.57M vs £17.21M PYTD → £13.65M shortfall  
 - Best-selling product: *Pleurothallis domingensis* (£94K)  
 - Top customer: *Ernser–Beahan*  
@@ -25,15 +24,16 @@ The dashboard enables data-driven decision-making by offering visual insights in
 
 ---
 
-## 🧮 Tech Stack
+## Tech Stack
 - **Tool:** Microsoft Power BI  
 - **Data Modeling:** DAX (YTD, PYTD, Variance)  
 - **Data Source:** Sample dataset (Sales, Product, Account, Geography)  
-- **Design Theme:** White & Teal 
+
 
 ---
 
 
 
 ﻿# PowerBI-project
+
 
