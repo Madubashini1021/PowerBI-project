@@ -8,10 +8,15 @@ The dashboard enables data-driven decision-making by offering visual insights in
 
 ## Dashboard Pages
 1. **Executive Dashboard** – Overall business performance and KPIs.
+![Executive Dashboard](./images/Page1_ExecutiveDashboard.png)
 2. **Product Performance** – Sales trends and profitability by product.
-3. **Customer Analysis** – Customer-level contribution and GP%.
-4. **Country Overview** – Geographic sales distribution and market insights.
-5. **Seasonality Analysis** – Seasonal patterns in product sales and profitability.
+![Executive Dashboard](./images/Page2_ProductPerformance.png)
+4. **Customer Analysis** – Customer-level contribution and GP%.
+![Executive Dashboard](./images/Page3_CustomerAnalysis.png)
+6. **Country Overview** – Geographic sales distribution and market insights.
+![Executive Dashboard](./images/Page4_CountryOverview.png)
+8. **Seasonality Analysis** – Seasonal patterns in product sales and profitability.
+![Executive Dashboard](./images/Page5_SeasonalityAnalysis.png)
 
 ---
 
@@ -35,5 +40,6 @@ The dashboard enables data-driven decision-making by offering visual insights in
 
 
 ﻿# PowerBI-project
+
 
 
