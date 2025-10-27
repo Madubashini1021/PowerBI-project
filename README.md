@@ -6,6 +6,13 @@ The dashboard enables data-driven decision-making by offering visual insights in
 
 ---
 
+## Tech Stack
+- **Tool:** Microsoft Power BI  
+- **Data Modeling:** DAX (YTD, PYTD, Variance)  
+- **Data Source:** Sample dataset (Sales, Product, Account, Geography)  
+
+---
+
 ## Dashboard Pages
 1. **Executive Dashboard** – Overall business performance and KPIs.
 ![Executive Dashboard](./images/Page1_ExecutiveDashboard.png)
@@ -27,19 +34,13 @@ The dashboard enables data-driven decision-making by offering visual insights in
 - Strong growth in **China**, **Hungary**, and **Portugal**  
 - **Outdoor & Landscape** products maintain stable performance year-round
 
----
-
-## Tech Stack
-- **Tool:** Microsoft Power BI  
-- **Data Modeling:** DAX (YTD, PYTD, Variance)  
-- **Data Source:** Sample dataset (Sales, Product, Account, Geography)  
-
 
 ---
 
 
 
 ﻿# PowerBI-project
+
 
 
 
